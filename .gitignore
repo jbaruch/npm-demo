@@ -2,6 +2,9 @@
 logs
 *.log
 
+#packed outcome
+*.tgz
+
 # Runtime data
 pids
 *.pid
