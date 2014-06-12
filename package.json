@@ -3,7 +3,8 @@
     "description": "npm demo for CI with Artifactory",
     "author": "jbaruch",
     "keywords": "jenkins, jenkins-ci, artifactory",
-    "version": "1.0.0",
+//    "version": "1.0.x-SNAPSHOT",
+    "version": "1.0.2",
     "private": true,
     "scripts": {
         "start": "node ./bin/www"
