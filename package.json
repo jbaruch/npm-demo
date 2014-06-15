@@ -3,10 +3,11 @@
     "description": "npm demo for CI with Artifactory",
     "author": "jbaruch",
     "keywords": "jenkins, jenkins-ci, artifactory",
-    "version": "1.0.0-SNAPSHOT",
+    "version": "0.5.0",
     "private": true,
     "scripts": {
-        "start": "node ./bin/www"
+        "start": "node ./bin/www",
+        "test": "mocha spec"
     },
     "dependencies": {
         "express": "~4.2.0",
